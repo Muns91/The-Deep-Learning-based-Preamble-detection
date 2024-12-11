@@ -1,4 +1,4 @@
-![image](https://github.com/Muns91/The-Deep-Learning-based-Preamble-detection/assets/150130876/45573db3-ea66-4f40-98fc-259066500395)
+
 ![image](https://github.com/Muns91/The-Deep-Learning-based-Preamble-detection/assets/150130876/3b014b47-8efc-44a0-80c9-66afeb4a8974)
 ![image](https://github.com/Muns91/The-Deep-Learning-based-Preamble-detection/assets/150130876/ddee39cf-37e5-463a-a064-d32d1eff0499)
 ![image](https://github.com/Muns91/The-Deep-Learning-based-Preamble-detection/assets/150130876/fa608858-3a4a-4b5c-8bba-1be5a2e7db58)
